@@ -3,6 +3,7 @@
 
 import requests
 
+# This is a test for wsgi
 URL = 'http://localhost:9999'
 
 if __name__ == '__main__':
